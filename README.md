@@ -63,13 +63,13 @@ Me chamo Enrico Delesporte, tenho 19 anos e sou do estado de São Paulo. Atualme
 ### 📊 Estatísticas
 
 <p>
-  <img 
+<!--   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=enricodelesporte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  /> -->
 
 <img 
       align="left" 
